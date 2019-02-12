@@ -1,6 +1,8 @@
 # hashboy-tool
 ![logo](https://github.com/sf197/hashboy-tool/blob/master/logo.jpg "hashboy-tool")
 
+*Hashboy was redeveloped on hash-buster*
+
 *Author:Leiothrix*
 
 *Github:https://github.com/sf197*
