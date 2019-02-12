@@ -1,11 +1,9 @@
 # hashboy-tool
 ![logo](https://github.com/sf197/hashboy-tool/blob/master/logo.jpg "hashboy-tool")
 
-*Hashboy was redeveloped on hash-buster*
+*Hashboy was redeveloped on [hash-buster](https://github.com/s0md3v/Hash-Buster "hash-buster")*
 
 *Author:Leiothrix*
-
-*Github:https://github.com/sf197*
 
 ### How to install
 ```
